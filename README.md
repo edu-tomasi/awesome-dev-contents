@@ -10,11 +10,13 @@ Abaixo segue uma lista de ferramentas que podem ser utilizadas em aplicações b
 
 [Entity Framework](https://entityframework.net/): Ferramenta ORM (acesso à bancos dedados)
 
+[RabbitMQ](https://www.rabbitmq.com/): Ferramenta para comunicação assíncrona.
+
 ## Tutoriais
 Abaixo segue uma lista com alguns tutoriais interessantes separadas por categoria.
 
 ### Docker
 [How YOU can Dockerize a .Net Core app](https://softchris.github.io/pages/dotnet-dockerize.html): Demonstra o passo a passo para criar um projeto em .Net em containers.
 
-### RabbitMq
-[How to Build an Event-Driven ASP.NET Core Microservice Architecture](https://itnext.io/how-to-build-an-event-driven-asp-net-core-microservice-architecture-e0ef2976f33f): Demonstra como implementar mensageria com RabbitMq.
+### RabbitMQ
+[How to Build an Event-Driven ASP.NET Core Microservice Architecture](https://itnext.io/how-to-build-an-event-driven-asp-net-core-microservice-architecture-e0ef2976f33f): Demonstra como implementar mensageria com RabbitMQ.
