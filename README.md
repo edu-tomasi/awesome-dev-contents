@@ -17,4 +17,4 @@ Abaixo segue uma lista com alguns tutoriais interessantes separadas por categori
 [How YOU can Dockerize a .Net Core app](https://softchris.github.io/pages/dotnet-dockerize.html): Demonstra o passo a passo para criar um projeto em .Net em containers.
 
 ### RabbitMq
-[How to Build an Event-Driven ASP.NET Core Microservice Architecture](https://itnext.io/how-to-build-an-event-driven-asp-net-core-microservice-architecture-e0ef2976f33f)
+[How to Build an Event-Driven ASP.NET Core Microservice Architecture](https://itnext.io/how-to-build-an-event-driven-asp-net-core-microservice-architecture-e0ef2976f33f): Demonstra como implementar mensageria com RabbitMq.
