@@ -12,6 +12,8 @@ Abaixo segue uma lista de ferramentas que podem ser utilizadas em aplicações b
 
 [RabbitMQ](https://www.rabbitmq.com/): Ferramenta para comunicação assíncrona.
 
+[Fluent Validation](https://fluentvalidation.net/): Ferramenta para construir regras de validações fortemente tipadas.
+
 ## Tutoriais
 Abaixo segue uma lista com alguns tutoriais interessantes separadas por categoria.
 
