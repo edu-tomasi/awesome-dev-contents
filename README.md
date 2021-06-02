@@ -14,6 +14,8 @@ Abaixo segue uma lista de ferramentas que podem ser utilizadas em aplicações b
 
 [Fluent Validation](https://fluentvalidation.net/): Ferramenta para construir regras de validações fortemente tipadas.
 
+[Mediatr](https://github.com/jbogard/MediatR/wiki): Ferramenta para lidar com o envio/manuseio de mensagem/notificações entre processos à fim de desacoplar os mesmos.
+
 ## Tutoriais
 Abaixo segue uma lista com alguns tutoriais interessantes separadas por categoria.
 
