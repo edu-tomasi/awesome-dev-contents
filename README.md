@@ -16,6 +16,8 @@ Abaixo segue uma lista de ferramentas que podem ser utilizadas em aplicações b
 
 [Mediatr](https://github.com/jbogard/MediatR/wiki): Ferramenta para lidar com o envio/manuseio de mensagem/notificações entre processos à fim de desacoplar os mesmos.
 
+[AngleSharp](https://anglesharp.github.io/): Ferramenta para converter documentos HTML em grupos de objetos navegáveis através do DotNet.
+
 ## Tutoriais
 Abaixo segue uma lista com alguns tutoriais interessantes separadas por categoria.
 
